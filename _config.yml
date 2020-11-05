@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Herramienta para fijar y reforzar todas las medidas y técnicas usadas para volver a ser productivo
 favicon: assets/favicon.ico
 
-baseurl: "/"
+baseurl: ""
 url: "https://fresh2nd.github.io/"
 
 header_text: Mis pasos para ser productivo
