@@ -32,7 +32,7 @@ footer_text: ""
 header_feature_image: ""
 
 excerpt: true
-theme: type-on-strap
+remote_theme: sylhare/Type-on-Strap
 post_navigation: true
 date_format: "%-d %B, %Y"
 lang: "es"
