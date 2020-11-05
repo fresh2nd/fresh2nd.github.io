@@ -22,18 +22,25 @@ title: De vago a vago productivo
 email: jonatan.rojas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Herramienta para fijar y reforzar todas las medidas y técnicas usadas para volver a ser productivo
-baseurl: "/Blog"
+favicon: assets/favicon.ico
+
+baseurl: "/"
 url: "https://fresh2nd.github.io/"
-twitter_username: ""
-github_username:  fresh2nd
 
 header_text: Mis pasos para ser productivo
-header_feature_image: ""
 footer_text: ""
+header_feature_image: ""
 
 excerpt: true
-# Build settings
 theme: type-on-strap
+post_navigation: true
+date_format: "%-d %B, %Y"
+lang: "es"
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+
+
+paginate: 5
+paginate_path: "/blog/page:num"
 plugins:
   - jekyll-feed
 
